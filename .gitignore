@@ -1,0 +1,8 @@
+#ignore .env
+
+*.env
+
+#ignore typical files
+*__pycache__
+*.csv
+*venv
